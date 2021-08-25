@@ -1,0 +1,129 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    font-size: 1em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #F2F2F2 ;
+}
+
+#area-cabecalho{
+    text-align: center;
+    background: #D8D8D8;
+    padding: 20px;
+}
+#programador{
+    color:gray;
+}
+
+#area-logo{
+    color: ghostwhite;
+    padding: 15px;
+}
+
+#cor-logo{
+    color:#2E2E2E;
+}
+
+#area-menu{
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+#area-menu a{
+    color: #1C1C1C;
+    padding: 10px;
+    margin: 5px;
+    
+}
+
+#area-menu a:hover{
+    color:darkslateblue;
+    background: white;
+}
+
+#area-conteudo{
+    width: 1200px;
+    margin: 10px auto;
+}
+
+.conteudo{
+    background:  #F2F2F2 ;
+    width: 1090px;
+    padding: 50px;
+    margin: 20px 10px;
+}
+
+.conteudo h1{
+    font-size: 3em;
+    text-align: center;
+}
+
+.conteudo h3{
+    padding: 0px 30px;
+}
+
+.conteudo p{
+    font-size: 19px;
+    padding: 0px 30px;
+}
+
+
+ul{
+    padding: 0px 30px;
+}
+
+li{
+    font-size: 19px;
+}
+
+.conteudo a{
+    text-decoration: none;
+    background: rgb(175, 165, 236);
+    color: purple
+}
+
+.conteudo a:hover{
+    text-decoration: none;
+    background: purple;
+    color: rgb(175, 165, 236);;
+}
+.conteudo p a{
+    background:  rgb(175, 165, 236);
+    text-decoration: none;
+    color:darkslateblue;
+}
+.conteudo p a:hover{
+    text-decoration: none;
+    background: white;
+    color: darkslateblue;
+}
+
+.direita{
+    margin-left: 500px;
+    margin-top: 15px;
+    float: both;
+}
+
+.centro{
+    text-align: center;
+    margin-top: 40px;
+}
+
+#rodape{
+    background: #D8D8D8;
+    padding: 30px;
+    text-align: center;
+    color: #gray;
+}
+
+#imagem{
+    float: left;
+}
+
+
